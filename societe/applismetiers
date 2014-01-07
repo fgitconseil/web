@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
+<head>
+<title>FGIT Conseil - Les applications m&eacute;tiers</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="Copyright" content="Fayaz GOULAM 2009"/>
+<meta name="Author" lang="fr" content="Fayaz GOULAM"/>
+<meta name="description" content="Choisir en contexte, am&eacute;liorer la performance, mettre en oeuvre et gouverner un moteur de recherche Intranet"/>
+<meta name="Identifier-URL" content="http://www.fgitconseil.com"/>
+<meta name="keywords" lang="fr" content="google, statistique, consultant, information, search, attivio, traitement automatique de la langue, linguistique, internet, web 2.0, intranet, gestion de projet, moteur de recherche, Fayaz GOULAM, moteur de recherche d&rsquo;entreprise, s&eacute;mantique, sp&eacute;cifications fonctionnelles, saaS, expert ind&eacute;pendant, sp&eacute;cifications techniques, KM, vivisimo, knowledge managment, conception, exalead, sinequa, microsoft fast, expert, choisir un moteur de recherche, autonomy, TAL, search engine, r&eacute;seau social, entreprise 2.0, cloud computing, acc&egrave;s &agrave; l&rsquo;information, consultant ind&eacute;pendant, search based application, am&eacute;liorer un moteur de recherche, valorisation, polyspot, connaissances"/>
+<meta name="revisit-after" content="20"/>
+<style type="text/css">
+@import "../inc/fgitconseil_style.css";
+</style>
+</head>
+<body>
+<div id="conteneur">
+	<div id="header">
+		<div id="logo"><a href="../index.htm"><img src="../img/logo.jpg" alt="logo site fgit conseil" class="img"/></a></div>
+		<div id="menuhautbleuf"><br/>Pr&eacute;sentation</div>
+		<div id="menuhautorange"><br/><a href="../offre/index.htm" class="menuhaut">Offre</a></div>
+		<div id="menuhautbleuc"><br/><a href="../parcours/index.htm" class="menuhaut">Parcours</a></div>
+	</div>
+	<div id="domainebleuf"></div>
+	<div id="main">
+	<div id="menu">
+			<ul class="menutxt">
+				<li class="menutxt"><a href="../index.htm" class="menutxt">Pr&eacute;sentation</a></li>
+				<li class="menutxt"><a href="moteurs.htm" class="menutxt">Les moteurs de recherche</a></li>
+				<li class="menutxt"><div class="menutxtsel">Applications m&eacute;tiers</div></li>
+				<li class="menutxt"><a href="../contact/index.php" class="menutxt">Contact</a></li>
+				<!--<li class="menutxt"><a href="plan.htm" class="menutxt">Plan du site</a></li>-->
+			</ul>
+		</div>
+		<div id="content">
+			<h1>Applications m&eacute;tiers<br/><br/></h1>
+			<p><img src="../img/pucei.gif" alt="puce retour" class="imgback"/><a href="../index.htm" class="contenttxt">Accueil</a><br/><br/></p>
+			<!--<p class="important">L&#39;<b>exploitation simultan&eacute;e</b> de diff&eacute;rentes sources d&#39;information <b>structur&eacute;es et non structur&eacute;es</b> permet de mettre en place de <b>nouvelle g&eacute;n&eacute;ration d&#39;applications m&eacute;tiers</b>. Dans certains cas, il peut est n&eacute;cessaire d&#39;exploiter les donn&eacute;es structur&eacute;s et les informations non structur&eacute;s afin de <b>faciliter la prise de d&eacute;cision</b>. Rappelons qu&#39;environ 80% des informations de l&#39;entreprise est non structur&eacute;es.<br/>
+			</p>
+			<p>Un <b>exemple d&#39;usage</b> possible est l&#39;&eacute;mergence du r&eacute;seau social d&#39;entreprise.<br/><br/></p>-->
+			<h2>L&#39;&eacute;mergence du r&eacute;seau social d&#39;entreprise par la recherche d&#39;information</h2>
+			<p class="important"><b>Gagnez du temps</b> en identifiant rapidement les bons interlocuteurs !<br/><br/>
+			<b>Pr&eacute;servez la m&eacute;moire</b> de votre organisation<br/><br/>
+			<b>Sans surco&ucirc;t logiciel ... </b><br/></p>
+			<img src="../img/reseausocial.jpg" alt="Réseau Social" class="nuagetag"/>
+			<p>La solution porte sur 2 axes : les <b>liens</b> entre les collaborateurs et la <b>qualification des expertises</b>.<br/><br/>Les <b>liens</b> entre les collaborateurs d&#39;une organisation sont repr&eacute;sent&eacute;s dans le SI : les productions de donn&eacute;es, de contenus et d&#39;informations sont la r&eacute;sultante des situations de travail et de communication entre les collaborateurs.<br/><br/>Il est naturellement possible de <b>qualifier les collaborateurs</b> par leurs sujets d&#39;excellence induits dans les contenus de l&#39;organisation.</p>
+			<ul class="contenttxt">
+				<li class="contenttxt">Donner de la valeur aux productions du collaborateur dans le SI de l&#39;entreprise</li>
+				<li class="contenttxt">Cr&eacute;er un profil &agrave; partir des bases CV, de l&#39;annuaire de l&#39;entreprise, des productions documentaires de l&#39;entreprise, des blogs, des wikis, ...</li>
+				<li class="contenttxt">Les fonctionnalit&eacute;s de productivit&eacute; et d&#39;interactivit&eacute; avec le syst&egrave;me incluent les fonctions de &laquo; social search &raquo; permettant un ajustement de la r&eacute;putation par les pairs</li>
+			</ul>
+			<ul class="contenttxt">
+				<li class="contenttxt">Domaines connexes : EIM, Collaboration, KM, RH</li>
+			</ul>
+			<ul class="contenttxt">
+				<li class="contenttxt">R&eacute;f&eacute;rences : Cr&eacute;ation de l&#39;offre de localisation d&#39;expertise sur la plateforme FAST avec <a href="http://www.social-computing.com" class="newpage" onclick="window.open(this.href,'_blank');return false;">Social Computing</a></li>
+			</ul>
+		</div>
+		<div class="spacer"></div>
+	</div>
+	<div id="footer">
+			<p><a href="../societe/plan.htm" class="footerstyle">Plan du site</a> - <a href="../contact/index.php" class="footerstyle">Contact</a> - <a href="../societe/mentionslegales.htm" class="footerstyle">Mentions l&eacute;gales</a><br/><br/></p>
+	</div>
+</div>	
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9152958-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
