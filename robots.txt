@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /inc/
-Disallow: /img/
-Disallow: /erreur/
-Allow: /
-Sitemap : http://www.fgitconseil.com/sitemap.xml
